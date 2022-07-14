@@ -1,0 +1,40 @@
+.cabecalho{}
+.cabecalho__logo{}
+.cabecalho__logo img{}
+
+.principal{}
+
+.principal__destaque{}
+.principal__destaque h1{}
+.principal__destaque p{}
+
+.principal__lista{}
+
+.principal__menu{}
+.principal__menu h3{}
+.principal__menu ul{}
+.principal__menu li{}
+.principal__menu a{}
+
+.principal__item{}
+
+.principal__item--top{}
+.principal__item--top h4{}
+.principal__item--top p{}
+
+.principal__item--bottom{}
+.principal__item--bottom p{}
+.principal__item--bottom a{}
+
+.lateral{}
+.lateral__item{}
+
+.lateral__item--left{}
+
+.lateral__item--center{}
+.lateral__item--center h4{}
+.lateral__item--center p{}
+.lateral__item--center a{}
+.lateral__item--center img{}
+
+.lateral_item--right{}
