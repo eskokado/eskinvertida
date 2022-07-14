@@ -136,8 +136,8 @@ body {
     margin-right: 10px;
 }
 
-.lateral_item--right{
+.lateral__item--right{
 }
-.lateral_item--right img{
+.lateral__item--right img{
     width: 15px;    
 }
