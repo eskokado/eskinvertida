@@ -1,6 +1,7 @@
 body {
     background-color: #0d0d0d;
     color: #fff;
+    font-family: 'Poppins', sans-serif;
 }
 .cabecalho{}
 .cabecalho__logo{
@@ -93,7 +94,9 @@ body {
     display: flex;
     justify-content: space-between;
 }
-.principal__item--bottom p{}
+.principal__item--bottom p{
+    width: 70%;
+}
 .principal__item--bottom a{
     text-decoration: none;
     color: #fff;
