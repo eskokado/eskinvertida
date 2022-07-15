@@ -88,7 +88,7 @@ body {
     font-weight: bold;
     margin-bottom: 20px;
 }
-.principal__item--top p{}
+.principal__item--top span{}
 
 .principal__item--bottom{
     display: flex;
@@ -138,7 +138,10 @@ body {
     width: 15px;
     margin-right: 10px;
 }
-
+.removeItem{
+    background-color: transparent;
+    border: none;
+}
 .lateral__item--right{
 }
 .lateral__item--right img{
