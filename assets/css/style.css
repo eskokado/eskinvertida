@@ -97,9 +97,11 @@ body {
 .principal__item--bottom p{
     width: 70%;
 }
-.principal__item--bottom a{
+.principal__item--bottom button{
     text-decoration: none;
     color: #fff;
+    background-color: transparent;
+    border: none;
 }
 
 .principal__lista--right{
@@ -140,7 +142,12 @@ body {
 }
 .removeItem{
     background-color: transparent;
+    background-image: url("../img/trash-icon.png");
+    background-size: contain;
+    background-repeat: no-repeat;
     border: none;
+    height: 30px;
+    width: 30px;
 }
 .lateral__item--right{
 }
